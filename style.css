@@ -143,7 +143,7 @@
   transition: transform 200ms ease-in;
 }
 
-.remove-icon {
+.remove-icon:hover {
   transform: rotateZ(0);
 }
 
